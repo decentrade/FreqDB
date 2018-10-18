@@ -1,0 +1,149 @@
+{ "dbVersion": 1,
+  "coursesData": [{
+        "text": "Courses taught in English", "id": "en", 
+        "sizes":{"eng":0,"rus":1364,"cmn":1112,"spa":976,"por":625,"deu":1777,"fra":1288,"ita":1133,"nld":945},
+        "pos": [
+            "Noun", 
+            "Adjective", 
+            "Verb",
+            "Proper noun",
+            "Adverb",
+            "Phrase",
+            "Prepositional phrase",
+            "Interjection",
+            "Preposition",
+            "Prefix",
+            "Proverb"
+        ],
+        "data": [
+            { "text": "English", "id":"engeng", "f":"asset" },
+            { "text": "Chineese", "id":"cmneng", "size":1572 },
+            { "text": "Spanish", "id":"spaeng", "size":1242 },
+            { "text": "German", "id":"deueng", "size":2127 },
+            { "text": "French", "id":"fraeng", "size":1589 },
+            { "text": "Portuguese", "id":"poreng", "size":1057 },
+            { "text": "Italian", "id":"itaeng", "size":1381 },
+            { "text": "Dutch", "id":"nldeng", "size":1062 },
+            { "text": "Russian", "id":"ruseng", "size":1156 }
+    ]},
+    {   "text": "Cursos enseñados en español", "id": "es",
+        "data": [
+            { "text": "Inglés", "id":"engspa", "size":1316 },
+            { "text": "Chino", "id":"cmnspa", "size":668 },
+            { "text": "Alemán", "id":"deuspa", "size": 1397 },
+            { "text": "Francés", "id":"fraspa", "size": 1280 },
+            { "text": "Portugués", "id":"porspa", "size": 706 },
+            { "text": "Italiano", "id":"itaspa", "size": 1244 },
+            { "text": "Holandés", "id":"nldspa", "size": 854 },
+            { "text": "Ruso", "id":"russpa", "size":720 }
+    ]},
+    {   "text": "Курсы на русском", "id": "ru",
+        "data": [
+            { "text": "Английский", "id":"engrus", "size":3024 },
+            { "text": "Китайский", "id":"cmnrus", "size":2836 },
+            { "text": "Испанский", "id":"sparus", "size":1319 },
+            { "text": "Немецкий", "id":"deurus", "size":1831 },
+            { "text": "Французский", "id":"frarus", "size":1800 },
+            { "text": "Португальский", "id":"porrus", "size":1302 },
+            { "text": "Итальянский", "id":"itarus", "size":1488 },
+            { "text": "Голландский", "id":"nldrus", "size":1242 },
+            { "text": "Русский", "id":"rusrus", "size":932 }
+    ]},
+    {   "text": "Kurse in Deutsch unterrichtet", "id": "de",
+        "data": [
+            { "text": "Englisch", "id":"engdeu", "size":1872 },
+            { "text": "Chinesisch", "id":"cmndeu", "size":1272 },
+            { "text": "Spanisch", "id":"spadeu", "size":1376 },
+
+            { "text": "Französisch", "id":"fradeu", "size":1693 },
+            { "text": "Portugiesisch", "id":"pordeu", "size":1137 },
+            { "text": "Italienisch", "id":"itadeu", "size":1470 },
+            { "text": "Niederländisch", "id":"nlddeu", "size":1128 },
+            { "text": "Russisch", "id":"rusdeu", "size":720 }
+    ]},
+    {   "text": "Cours enseignés en français", "id": "fr",
+        "data": [
+            { "text": "Anglais", "id":"engfra", "size":1468 },
+            { "text": "Chinois", "id":"cmnfra", "size":784 },
+            { "text": "Espanol", "id":"spafra", "size":1089 },
+            { "text": "Allemand", "id":"deufra", "size":1620 },
+            
+            { "text": "Portugais", "id":"porfra", "size":921 },
+            { "text": "Italien", "id":"itafra", "size":1326 },
+            { "text": "Néerlandais", "id":"nldfra", "size":932 },
+            { "text": "Russe", "id":"rusfra", "size":572 }
+    ]},
+    {   "text": "cursos ministrados em portugues", "id": "por",
+        "data": [
+            { "text": "Inglês", "id":"engpor", "size":1284 },
+            { "text": "Chinês", "id":"cmnpor", "size":588 },
+            { "text": "Espanhol", "id":"spapor", "size":738 },
+            { "text": "Alemão", "id":"deupor", "size":1122 },
+            { "text": "Francês", "id":"frapor", "size":1194 },
+            
+            { "text": "Italiano", "id":"itapor", "size":1010 },
+            { "text": "Holandês", "id":"nldpor", "size":826 },
+            { "text": "Russo", "id":"ruspor", "size":300 }
+    ]},
+    {   "text": "Corsi tenuti in italiano", "id": "ita",
+        "data": [
+            { "text": "Inglese", "id":"engita", "size":1284 },
+            { "text": "Cinese", "id":"cmnita", "size":604 },
+            { "text": "Spagnolo", "id":"spaita", "size":1020 },
+            { "text": "Tedesco", "id":"deuita", "size":1301 },
+            { "text": "Francese", "id":"fraita", "size":1245 },
+            { "text": "Portoghese", "id":"porita", "size":823 },
+            
+            { "text": "Olandese", "id":"nldita", "size":803 },
+            { "text": "Russo", "id":"rusita", "size":480 }
+    ]},
+    {   "text": "日本語で教えられるコース", "id": "jp",
+        "data": [
+            { "text": "英語", "id":"engjpn", "size":1976 },
+            { "text": "中国語", "id":"cmnjpn", "size":672 },
+            { "text": "スペイン語", "id":"spajpn", "size":1384 },
+            { "text": "ドイツ人", "id":"deujpn", "size":1379 },
+            { "text": "フランス語", "id":"frajpn", "size":1684 },
+            { "text": "ポルトガル", "id":"porjpn", "size":1303 },
+            { "text": "イタリアの", "id":"itajpn", "size":1641 },
+            { "text": "オランダの", "id":"nldjpn", "size":691 },
+            { "text": "ロシア語", "id":"rusjpn", "size":508 }
+    ]},
+    {   "text": "المقررات التي تدرس باللغة العربية", "id": "arb",
+        "data": [
+            { "text": "الإنجليزية", "id":"engarb", "size":1760 },
+            { "text": "صينى", "id":"cmnarb", "size":528 },
+            { "text": "الأسبانية", "id":"spaarb", "size":767 },
+            { "text": "ألمانية", "id":"deuarb", "size":664 },
+            { "text": "الفرنسية", "id":"fraarb", "size":1120 },
+            { "text": "البرتغالية", "id":"porarb", "size":818 },
+            { "text": "الإيطالي", "id":"itaarb", "size":838 },
+            { "text": "هولندي", "id":"nldarb", "size":482 },
+            { "text": "الروسية", "id":"rusarb", "size":212 }
+    ]},
+    {   "text": "ئۇيغۇرچەدوره", "id": "uig",
+        "data": [
+            { "text": "خەنزۇ تىلى", "id":"cmnuig", "size":1452 }
+    ]}
+  ],
+  "coverage": {
+    "rus":[5.985302287335755, -2.2145085643625593, 9.464866101904343, -4.107687363365996, 0.8646126581141249, 
+        -0.08929998962158203, 0.004359590693601783, -8.009815619740368e-05],
+    "cmn":[5.805348722093858, -0.39323161179605737, 4.05837474496874, -1.3413123301086947, 0.22668029063067904, 
+        -0.0168730737926137, 0.0004426089361829606, 2.1907564906095193e-07],
+    "eng":[9.609326196966405, -9.846611507862997, 22.917120773191396, -9.856339259412836, 2.021458787358788, 
+        -0.2131358871505604, 0.011144214890541577, -0.0002293736530829496],
+    "spa":[10.010438278825447, -9.904693082999225, 23.55574493137267, -9.5864810833841, 1.8525704668243987, 
+        -0.18504836843689593, 0.009200105654959882, -0.00018025215187067415],
+    "deu":[13.617478537990536, -5.473897829264206, 12.217408123675533, -4.29685274223079, 0.7734585784345415, 
+        -0.07412712407314853, 0.0035728801536124206, -6.823632309529648e-05],
+    "fra":[8.113733934036905, -0.13712458208495407, 14.509387468059302, -6.483796496010152, 1.3324333675100386, 
+        -0.1394201805629728, 0.007205182131125079, -0.00014636317568358494],
+    "ita":[5.748382479579803, -6.630770291929745, 13.338699785180765, -4.401390066187157, 0.724017267387883, 
+        -0.06054319391356321, 0.0023456989340135737, -3.053669866068193e-05],
+    "por":[7.6877563538552565, -1.4475420731359367, 12.525526049694038, -4.919681643998802, 0.9245240775417476, 
+        -0.08845883838604175, 0.00408328151108847, -7.101130011656294e-05],
+    "nld":[8.172249725954838, -4.652092403751616, 13.993596168229493, -4.901291345905489, 0.8409979603930946, 
+        -0.07577679396437488, 0.0034034583265448, -5.985651867312889e-05]
+  }
+}
